@@ -1,0 +1,2 @@
+DoctorID     Name                 DOB          Address              Telephone       Specialization  LicenseNumber   ConsultationFee YearsExp  
+1            niyo                 1978.06.12   kouwil               1236547890      heart           20              50000           12        
